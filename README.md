@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Swift(IOS Development)**
 
-- 👨‍💻 All of my projects are available at [https://kaiminn-portfolio.web.app/](https://kaiminn-portfolio.web.app/) | Latest project is not inside, in progress
+- 👨‍💻 All of my projects are available at [https://kaiminn-web.web.app/](https://kaiminn-web.web.app/) 
 
 - 📫 How to reach me **calvinkoh05@gmail.com**
 
