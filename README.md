@@ -21,7 +21,7 @@
 
 - 📖 I’m currently studying Diploma in Information Technology in **Tunku Abdul Rahman Technology and Management (TARUMT)**
 
-- 🌱 I’m currently learning **Swift(IOS Development)**
+- 🌱 I’m currently focusing on my FYP projects.
 
 - 👨‍💻 All of my projects are available at [https://portfolio.kaiminndev.com/](https://portfolio.kaiminndev.com/) 
 
